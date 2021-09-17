@@ -4,7 +4,5 @@
 Project Team Members: 
 Jasey Chanders
 Cassie Sterns
-
-I am the monster destroying your file :)
-
-Corrected the changes made by cassie
+Nina Ning
+put name <here> next person
