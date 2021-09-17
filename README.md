@@ -1,6 +1,11 @@
 # CSCI_3308_git_practice
 
+=======
+Project Team Members: 
+Jasey Chanders
+Cassie Sterns
+Jeffrey Collins
+
 I am the monster destroying your file :)
 
-Team Member Names:
-Jeffrey Collins (adding some sample text here to commit again)
+Corrected the changes made by cassie
