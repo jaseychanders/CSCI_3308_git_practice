@@ -1,6 +1,8 @@
 # CSCI_3308_git_practice
+
+=======
 Project Team Members: 
-Jasey
+Jasey Chanders
 Cassie Sterns
 
 I am the monster destroying your file :)
